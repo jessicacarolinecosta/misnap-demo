@@ -1,0 +1,3 @@
+rootProject.name = 'MySampleApp'
+
+include ':app', ':api-release', ':sanselan-release', ':misnapscience-release', ':misnapcamera-release', ':mibidata-release', ':imageutils-release', ':misnapcontroller-release', ':misnapworkflow-release', ':misnapworkflow_UX2-release', ':cardio-release', ':creditcardcontroller-release', ':barcode-release', ':barcodecontroller-release'
